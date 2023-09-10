@@ -1,12 +1,70 @@
-<h1 align="center">Hi 👋, I'm Anuvart</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-- 🌱 I’m currently learning **React**
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuvart</h1>
+<h3 align="center">I'm a student and passionate Full Stack Developer from India.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **React js**
+
+- 🌱 I’m currently learning/practicing **Data Structures and Algorithms.**
+
+- 👨‍💻 All of my projects will be available soon here (work in progress)
+
+- 📫 How to reach me **anuvartkumar1609@gmail.com**
+
+- ⚡ Fun fact **I use to consume informational content and also love to play Cricket.**
+
+## 🚀 Languages and Tools:
+
+<p align="center"> 
+    <a href="https://www.cplusplus.com/doc/tutorial/" target="_blank"> <img src="https://img.icons8.com/color/2x/c-plus-plus-logo.png" style="max-width:100; height:65px;"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/344/javascript--v1.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/344/html-5--v1.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/344/css3.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/344/bootstrap.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/344/react-native.png" style="max-width:100; height:65px;"/> </a>
+    <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://img.icons8.com/color/2x/ruby-programming-language.png" style="max-width:100; height:65px;"/> </a> 
+    <a href="https://rubyonrails.org/" target="_blank"> <img src="https://img.icons8.com/windows/2x/ruby-on-rails.png" style="padding-right:8px;max-width:100; height:65px;"/> </a>  
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/344/mysql-logo.png" style="padding-right:8px;max-width:100; height:65px;"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/344/git.png" style="max-width:100; height:65px;"/> </a> 
+   
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p align="center">
+    <a href="https://github.com/atultechd/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="atultechd's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=atultechd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+## 📊 My Github Stats
+
+ <br/>
+ <p align="center">
+    <a href="https://github.com/atultechd/github-readme-stats"><img alt="atultechd's Github Stats" src="https://github-readme-stats.vercel.app/api?username=atultechd&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/atultechd/github-readme-stats"><img alt="atultechd's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultechd&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</p>
+  <br/>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/atultechd/github-readme-activity-graph"><img alt="atultechd's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=atultechd&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+## Connect with me:
+<p align="left">
+
+  <a href = "https://www.linkedin.com/in/atul-dwivedi-196a7b18b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+  <a href = "https://twitter.com/Atultechd"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+  <a href = "https://www.instagram.com/techd_art/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
+<a href="https://github.com/atultechd?tab=followers"><img src="https://img.shields.io/github/followers/atultechd?label=Followers&style=social" alt="GitHub Badge"></a>
 
